@@ -1,0 +1,163 @@
+wellname,tag,tag_type,tag_status,proposed_tag,comment
+K01,,dhp,no tag,,
+K01,,master_valve,no tag,,
+K01,,wing_valve,no tag,,
+K01,,drawdown,no tag,,
+K01,,theoretical_oil,no tag,,
+K01,,theoretical_water,no tag,,
+K01,,test_oil,no tag,,
+K01,,test_water,no tag,,
+K01,AZERICENTRALEAST-K01-DAILY-PROD-ALLOC-OIL,alloc_oil,active tag,,will check tag if behaves normal
+K01,,gl_choke,no tag,,
+K01,,a_annulus_pressure,no tag,,
+K01,,b_annulus_pressure,no tag,,
+K01,,c_annulus_pressure,no tag,,
+K01,,GL_rate,no tag,,
+K01,,HP_enabled,no tag,,
+K01,,LP_enabled,no tag,,
+K01,,Test_enabled,no tag,,
+K01,,vertex_routing,no tag,,
+K01,,arthemis_QOil,no tag,,
+K01,,arthemis_QWater,no tag,,
+K01,,arthemis_QGas,no tag,,
+K01,,arthemis_QLiquid,no tag,,
+K01,,arthemis_QGOR,no tag,,
+K01,,arthemis_QWC,no tag,,
+K01,,watercut,no tag,,
+K01,,well_mode,no tag,,
+K01,,sand_concentration,no tag,,
+A01W,ACH-A01X-CH2PRESS.AI,dhp,active tag,,will check tag if behaves normal
+A01W,CH01-ACH-XS-1023.DI,master_valve,active tag,,will check tag if behaves normal
+A01W,CH01-ACH-XA-1023.DI,wing_valve,active tag,,will check tag if behaves normal
+A01W,CHIRAG-A01W-DERIVED-CURRENT-DRAWDOWN,drawdown,no data in tag,tbd,data points are empty
+A01W,CHIRAG-A01W-DSS-THEOR-OIL,theoretical_oil,active tag,,will check tag if behaves normal
+A01W,CHIRAG-A01W-DSS-THEOR-WATER,theoretical_water,active tag,,will check tag if behaves normal
+A01W,CHIRAG-A01W-DSS-TEST-OIL,test_oil,active tag,,will check tag if behaves normal
+A01W,CHIRAG-A01W-DSS-TEST-WATER,test_water,active tag,,will check tag if behaves normal
+A01W,CHIRAG-A01W-DSS-ALLOC-OIL,alloc_oil,active tag,,will check tag if behaves normal
+A01W,CHIRAG-A01W-DAILY-PROD-GASLIFT-CHOKE-SIZE,gl_choke,active tag,,will check tag if behaves normal
+A01W,CH01-ACH-PI-170231.AI,a_annulus_pressure,active tag,,will check tag if behaves normal
+A01W,CHIRAG-A01W-EC-B-ANNULUS-PRESSURE-BARG,b_annulus_pressure,active tag,,will check tag if behaves normal
+A01W,CHIRAG-A01W-EC-C-ANNULUS-PRESSURE-BARG,c_annulus_pressure,active tag,,will check tag if behaves normal
+A01W,CH01-ACH-FI-170231C.AI,GL_rate,active tag,,will check tag if behaves normal
+A01W,,HP_enabled,no tag,,
+A01W,,LP_enabled,no tag,,
+A01W,,Test_enabled,no tag,,
+A01W,,vertex_routing,no tag,,
+A01W,,arthemis_QOil,no tag,,
+A01W,,arthemis_QWater,no tag,,
+A01W,,arthemis_QGas,no tag,,
+A01W,,arthemis_QLiquid,no tag,,
+A01W,,arthemis_QGOR,no tag,,
+A01W,,arthemis_QWC,no tag,,
+A01W,CH01-PL-CHHV10233-AZ00001-BSW-LIMS,watercut,active tag,,will check tag if behaves normal
+A01W,,well_mode,no tag,,
+A01W,,sand_concentration,no tag,,
+A02W,ACH-A02Z-CH13PRESS.AI,dhp,active tag,,will check tag if behaves normal
+A02W,CH01-ACH-XS-1022.DI,master_valve,active tag,,will check tag if behaves normal
+A02W,,wing_valve,no tag,,
+A02W,CHIRAG-A02W-DERIVED-CURRENT-DRAWDOWN,drawdown,no data in tag,tbd,data points are empty
+A02W,CHIRAG-A02W-DSS-THEOR-OIL,theoretical_oil,active tag,,will check tag if behaves normal
+A02W,CHIRAG-A02W-DSS-THEOR-WATER,theoretical_water,active tag,,will check tag if behaves normal
+A02W,CHIRAG-A02W-DSS-TEST-OIL,test_oil,active tag,,will check tag if behaves normal
+A02W,CHIRAG-A02W-DSS-TEST-WATER,test_water,active tag,,will check tag if behaves normal
+A02W,CHIRAG-A02W-DSS-ALLOC-OIL,alloc_oil,active tag,,will check tag if behaves normal
+A02W,CHIRAG-A02W-DAILY-PROD-GASLIFT-CHOKE-SIZE,gl_choke,active tag,,will check tag if behaves normal
+A02W,CH01-ACH-PI-170221.AI,a_annulus_pressure,active tag,,will check tag if behaves normal
+A02W,CHIRAG-A02W-EC-B-ANNULUS-PRESSURE-BARG,b_annulus_pressure,active tag,,will check tag if behaves normal
+A02W,CHIRAG-A02W-EC-C-ANNULUS-PRESSURE-BARG,c_annulus_pressure,active tag,,will check tag if behaves normal
+A02W,CH01-ACH-FI-170221C.AI,GL_rate,active tag,,will check tag if behaves normal
+A02W,,HP_enabled,no tag,,
+A02W,,LP_enabled,no tag,,
+A02W,,Test_enabled,no tag,,
+A02W,,vertex_routing,no tag,,
+A02W,,arthemis_QOil,no tag,,
+A02W,,arthemis_QWater,no tag,,
+A02W,,arthemis_QGas,no tag,,
+A02W,,arthemis_QLiquid,no tag,,
+A02W,,arthemis_QGOR,no tag,,
+A02W,,arthemis_QWC,no tag,,
+A02W,CH01-PL-CHHV102224-AZ00001-BSW-LIMS,watercut,active tag,,will check tag if behaves normal
+A02W,,well_mode,no tag,,
+A02W,,sand_concentration,no tag,,
+A03Y,ACH-A03Z7-CH2PRESS.AI,dhp,active tag,,will check tag if behaves normal
+A03Y,CH01-ACH-XS-1007.DI,master_valve,active tag,,will check tag if behaves normal
+A03Y,CH01-ACH-XA-1007.DI,wing_valve,active tag,,will check tag if behaves normal
+A03Y,CHIRAG-A03Y-DERIVED-CURRENT-DRAWDOWN,drawdown,no data in tag,tbd,data points are empty
+A03Y,CHIRAG-A03Y-DSS-THEOR-OIL,theoretical_oil,active tag,,will check tag if behaves normal
+A03Y,CHIRAG-A03Y-DSS-THEOR-WATER,theoretical_water,active tag,,will check tag if behaves normal
+A03Y,CHIRAG-A03Y-DSS-TEST-OIL,test_oil,active tag,,will check tag if behaves normal
+A03Y,CHIRAG-A03Y-DSS-TEST-WATER,test_water,active tag,,will check tag if behaves normal
+A03Y,CHIRAG-A03Y-DSS-ALLOC-OIL,alloc_oil,active tag,,will check tag if behaves normal
+A03Y,CHIRAG-A03Y-DAILY-PROD-GASLIFT-CHOKE-SIZE,gl_choke,active tag,,will check tag if behaves normal
+A03Y,CH01-ACH-PI-170071.AI,a_annulus_pressure,active tag,,will check tag if behaves normal
+A03Y,CHIRAG-A03Y-EC-B-ANNULUS-PRESSURE-BARG,b_annulus_pressure,active tag,,will check tag if behaves normal
+A03Y,CHIRAG-A03Y-EC-C-ANNULUS-PRESSURE-BARG,c_annulus_pressure,active tag,,will check tag if behaves normal
+A03Y,CH01-ACH-FI-170071C.AI,GL_rate,active tag,,will check tag if behaves normal
+A03Y,,HP_enabled,no tag,,
+A03Y,,LP_enabled,no tag,,
+A03Y,,Test_enabled,no tag,,
+A03Y,,vertex_routing,no tag,,
+A03Y,,arthemis_QOil,no tag,,
+A03Y,,arthemis_QWater,no tag,,
+A03Y,,arthemis_QGas,no tag,,
+A03Y,,arthemis_QLiquid,no tag,,
+A03Y,,arthemis_QGOR,no tag,,
+A03Y,,arthemis_QWC,no tag,,
+A03Y,CH01-PL-CHHV100729-AZ00001-BSW-LIMS,watercut,active tag,,will check tag if behaves normal
+A03Y,,well_mode,no tag,,
+A03Y,,sand_concentration,no tag,,
+A05Y,ACH-A0521-CH3PRESS.AI,dhp,active tag,,will check tag if behaves normal
+A05Y,CH01-ACH-XS-1021.DI,master_valve,active tag,,will check tag if behaves normal
+A05Y,CH01-ACH-XA-1021.DI,wing_valve,active tag,,will check tag if behaves normal
+A05Y,CHIRAG-A05Y-DERIVED-CURRENT-DRAWDOWN,drawdown,no data in tag,tbd,data points are empty
+A05Y,CHIRAG-A05Y-DSS-THEOR-OIL,theoretical_oil,active tag,,will check tag if behaves normal
+A05Y,CHIRAG-A05Y-DSS-THEOR-WATER,theoretical_water,active tag,,will check tag if behaves normal
+A05Y,CHIRAG-A05Y-DSS-TEST-OIL,test_oil,active tag,,will check tag if behaves normal
+A05Y,CHIRAG-A05Y-DSS-TEST-WATER,test_water,active tag,,will check tag if behaves normal
+A05Y,CHIRAG-A05Y-DSS-ALLOC-OIL,alloc_oil,active tag,,will check tag if behaves normal
+A05Y,CHIRAG-A05Y-DAILY-PROD-GASLIFT-CHOKE-SIZE,gl_choke,active tag,,will check tag if behaves normal
+A05Y,CH01-ACH-PI-170211.AI,a_annulus_pressure,active tag,,will check tag if behaves normal
+A05Y,CHIRAG-A05Y-EC-B-ANNULUS-PRESSURE-BARG,b_annulus_pressure,active tag,,will check tag if behaves normal
+A05Y,CHIRAG-A05Y-EC-C-ANNULUS-PRESSURE-BARG,c_annulus_pressure,active tag,,will check tag if behaves normal
+A05Y,CH01-ACH-FI-170211C.AI,GL_rate,active tag,,will check tag if behaves normal
+A05Y,,HP_enabled,no tag,,
+A05Y,,LP_enabled,no tag,,
+A05Y,,Test_enabled,no tag,,
+A05Y,,vertex_routing,no tag,,
+A05Y,,arthemis_QOil,no tag,,
+A05Y,,arthemis_QWater,no tag,,
+A05Y,,arthemis_QGas,no tag,,
+A05Y,,arthemis_QLiquid,no tag,,
+A05Y,,arthemis_QGOR,no tag,,
+A05Y,,arthemis_QWC,no tag,,
+A05Y,CH01-PL-CHHV102125-AZ00001-BSW-LIMS,watercut,active tag,,will check tag if behaves normal
+A05Y,,well_mode,no tag,,
+A05Y,,sand_concentration,no tag,,
+A06X,CH01-ACH-A6Y-CH9PRESS.AI,dhp,active tag,,will check tag if behaves normal
+A06X,CH01-ACH-XS-1006.DI,master_valve,active tag,,will check tag if behaves normal
+A06X,CH01-ACH-XA-1006.DI,wing_valve,active tag,,will check tag if behaves normal
+A06X,CHIRAG-A06X-DERIVED-CURRENT-DRAWDOWN,drawdown,no data in tag,tbd,data points are empty
+A06X,CLAIR-A06X-DSS-THEOR-OIL,theoretical_oil,no data in tag,tbd,data points are empty
+A06X,CLAIR-A06X-DSS-THEOR-WATER,theoretical_water,no data in tag,tbd,data points are empty
+A06X,CHIRAG-A06X-DSS-TEST-OIL,test_oil,active tag,,will check tag if behaves normal
+A06X,CHIRAG-A06X-DSS-TEST-WATER,test_water,active tag,,will check tag if behaves normal
+A06X,CHIRAG-A06X-DSS-ALLOC-OIL,alloc_oil,active tag,,will check tag if behaves normal
+A06X,,gl_choke,no tag,,
+A06X,CHIRAG-A06X-EC-A-ANNULUS-PRESSURE-BARG,a_annulus_pressure,active tag,,will check tag if behaves normal
+A06X,CHIRAG-A06X-EC-B-ANNULUS-PRESSURE-BARG,b_annulus_pressure,active tag,,will check tag if behaves normal
+A06X,CHIRAG-A06X-EC-C-ANNULUS-PRESSURE-BARG,c_annulus_pressure,active tag,,will check tag if behaves normal
+A06X,,GL_rate,no tag,,
+A06X,,HP_enabled,no tag,,
+A06X,,LP_enabled,no tag,,
+A06X,,Test_enabled,no tag,,
+A06X,,vertex_routing,no tag,,
+A06X,,arthemis_QOil,no tag,,
+A06X,,arthemis_QWater,no tag,,
+A06X,,arthemis_QGas,no tag,,
+A06X,,arthemis_QLiquid,no tag,,
+A06X,,arthemis_QGOR,no tag,,
+A06X,,arthemis_QWC,no tag,,
+A06X,CH01-PL-CHHV100627-AZ00001-BSW-LIMS,watercut,active tag,,will check tag if behaves normal
+A06X,,well_mode,no tag,,
+A06X,,sand_concentration,no tag,,
