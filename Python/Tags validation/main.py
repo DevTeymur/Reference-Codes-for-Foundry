@@ -47,10 +47,17 @@ ssid_columns = [
 final_result = pd.DataFrame(columns=['wellname', 'tag', 'tag_type', 'tag_status', 'proposed_tag', 'comment'])
 
 # Function to propse tag for the given problematic tag
-def get_proposed_tag(ssid, 
+def get_proposed_tag_new(ssid, 
+                     status, 
+                     property_name,
                      sensor_series = df):
+    if status == 'active tag':
+        return None
     return 'tbd'
 
+
+def get_proposed_tag(ssid, sensor_series = df):
+    return 'tbd'
 
 # Function to scrap data from the tag and check whether data is valid or not
 def node_collection(ssid: str, 
